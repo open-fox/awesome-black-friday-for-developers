@@ -215,3 +215,9 @@ deals:
     category: hosting
     offer: "Black Friday 2026: 50% OFF your first month. [Solo for $2.50](https://layerbase.com/pricing) with code BFSOLO26 (then $5/mo); [Pro for $7.50](https://layerbase.com/pricing) with code BFPRO26 (then $15/mo). First 50 redemptions per code."
     description: Flat-priced managed databases: 19 engines including Postgres, MySQL, Redis and ClickHouse from one account, with no usage or egress meters.
+
+  - name: MkSaaS
+    url: https://mksaas.com/#pricing
+    category: starter-kits
+    offer: "Lifetime license $99 instead of $199; automatically discounted through November 30, 2026"
+    description: Next.js starter with authentication, billing and working AI chat and image generation examples.
